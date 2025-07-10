@@ -1,0 +1,18 @@
+/* Clean slate for dark blue/white theme */
+#root {
+  text-align: left;
+}
+
+.logo, .logo.react {
+  display: none;
+}
+
+.card, .read-the-docs {
+  display: none;
+}
+
+/* Utility classes for spacing if needed */
+.mt-2 { margin-top: 2rem; }
+.mb-2 { margin-bottom: 2rem; }
+.pt-2 { padding-top: 2rem; }
+.pb-2 { padding-bottom: 2rem; }
