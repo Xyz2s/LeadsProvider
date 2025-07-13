@@ -378,6 +378,7 @@ function Footer() {
         <div style={{flex: '1 1 180px', minWidth: 160, marginBottom: 24}}>
           <div style={{fontWeight: 700, marginBottom: 10, color: '#36a2f5', fontSize: '1.1rem'}}>Contact</div>
           <div style={{color: '#dbeafe', fontSize: '1.05rem', marginBottom: 12}}>info.leadsprovider@gmail.com<br /></div>
+          <div style={{color: '#dbeafe', fontSize: '1.05rem', marginBottom: 12}}>9214704237<br /></div>
           <div style={{display: 'flex', gap: 18, marginTop: 8}}>
             {/* Social icons (SVG) */}
             <a href="#" aria-label="LinkedIn" style={{color: '#dbeafe', transition: 'color 0.2s'}} onMouseOver={e=>e.target.style.color='#36a2f5'} onMouseOut={e=>e.target.style.color='#dbeafe'}>
@@ -589,10 +590,10 @@ function ContactPage() {
         style={{display: 'flex', flexWrap: 'wrap', gap: '2.5rem', justifyContent: 'center', marginBottom: '2.5rem'}}>
         {/* Contact Info */}
         <div style={{flex: '1 1 400px', minWidth: 320, background: '#13294b', borderRadius: 18, boxShadow: '0 2px 16px #185adb44', padding: '2.5rem 2rem', color: '#fff', border: '1.5px solid #36a2f5', display: 'flex', flexDirection: 'column', gap: 20}}>
-          {/* <div style={{fontWeight: 800, fontSize: '1.3rem', color: '#36a2f5', marginBottom: 8, display: 'flex', alignItems: 'center', gap: 8}}>
+          <div style={{fontWeight: 800, fontSize: '1.3rem', color: '#36a2f5', marginBottom: 8, display: 'flex', alignItems: 'center', gap: 8}}>
             <svg width="24" height="24" fill="#36a2f5" viewBox="0 0 24 24" style={{marginRight: 8}}><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 011 1V20a1 1 0 01-1 1C10.07 21 3 13.93 3 5a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.46.57 3.58a1 1 0 01-.24 1.01l-2.2 2.2z"/></svg>
-            +1 (555) 123-4567
-          </div> */}
+            9214704237
+          </div>
           <div style={{fontWeight: 800, fontSize: '1.2rem', color: '#36a2f5', marginBottom: 8, display: 'flex', alignItems: 'center', gap: 8}}>
             <svg width="24" height="24" fill="#36a2f5" viewBox="0 0 24 24" style={{marginRight: 8}}><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 2v.01L12 13 4 6.01V6h16zM4 20v-9.99l8 6.99 8-6.99V20H4z"/></svg>
             info.leadsprovider@gmail.com
